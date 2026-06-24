@@ -33,12 +33,12 @@ export default function Navigation() {
       <div className="flex justify-between items-center">
         {/* Logo and Brand */}
         <div className="flex items-center ml-2 sm:ml-4">
-          <div className="relative h-[58px] w-[240px] sm:h-[77px] sm:w-[320px] flex items-center justify-start">
+          <div className="relative h-[42px] w-[175px] sm:h-[56px] sm:w-[233px] flex items-center justify-start">
             <Image
               src="/assets/images/logo.svg"
               alt="AI Solutions Logo"
-              width={328}
-              height={73}
+              width={239}
+              height={53}
               priority
               className="object-contain object-left"
             />
