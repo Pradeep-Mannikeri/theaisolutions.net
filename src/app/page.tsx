@@ -1187,7 +1187,7 @@ export default function Home() {
                   </svg>
                 </Link>
                 <Link
-                  href="https://www.instagram.com/aisolutions2025/"
+                  href="https://www.instagram.com/the_ai_solutions/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[#66318B] hover:text-[#330157] transition-colors"
@@ -1202,7 +1202,7 @@ export default function Home() {
                   </svg>
                 </Link>
                 <Link
-                  href="https://www.facebook.com/profile.php?id=61575924505103"
+                  href="https://www.facebook.com/people/AI-Solutions/61591608441049/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[#66318B] hover:text-[#330157] transition-colors"

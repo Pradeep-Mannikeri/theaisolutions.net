@@ -62,7 +62,7 @@ export default function Footer({ hideContactInfo = false }: FooterProps) {
                     </svg>
                   </Link>
                   <Link
-                    href="https://www.facebook.com/profile.php?id=61591608441049"
+                    href="https://www.facebook.com/people/AI-Solutions/61591608441049/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-[#66318B] hover:text-[#330157] transition-colors"

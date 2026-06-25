@@ -76,7 +76,8 @@ const jsonLd = {
   },
   "sameAs": [
     "https://www.linkedin.com/company/ai-solutions-llc/",
-    "https://www.instagram.com/aisolutions2025/"
+    "https://www.instagram.com/the_ai_solutions/",
+    "https://www.facebook.com/people/AI-Solutions/61591608441049/"
   ]
 };
 
