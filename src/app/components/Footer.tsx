@@ -47,7 +47,7 @@ export default function Footer({ hideContactInfo = false }: FooterProps) {
                     </svg>
                   </Link>
                   <Link
-                    href="https://www.instagram.com/the_ai_solutions/"
+                    href="https://www.instagram.com/the_ai_solutions"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-[#66318B] hover:text-[#330157] transition-colors"
